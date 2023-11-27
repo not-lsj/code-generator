@@ -51,7 +51,6 @@ public class GenTool {
         }
         long spendTime = System.currentTimeMillis() - startTime;
         System.out.println("============ 生成成功,操作耗时" + spendTime + "毫秒  =======");
-
     }
 
 }
